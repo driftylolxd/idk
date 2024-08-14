@@ -26,7 +26,7 @@ var config = {
         footer: {
             text: `Xared Injection"`,        
         },
-        href: "https://github.com/TheCuteOwl",
+        href: "uh",
     },
 
     badges: {
